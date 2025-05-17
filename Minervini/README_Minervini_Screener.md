@@ -49,10 +49,12 @@ Install with pip:
 ```bash
 pip install pandas numpy yfinance ta matplotlib seaborn
 ```
-
+## Input
+it is referring to Wikipedia S&P500 
+https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 ---
 
-## 📤 Output
+## 📤 Output: MInervini Passed / Failed list 
 
 - A filtered list of stocks passing Minervini-style technical checks
 - A dynamic report that can be updated with fresh data
