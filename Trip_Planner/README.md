@@ -1,3 +1,27 @@
+## AI Agent 
+Learning AI make me realize how limited our time and brain power 
+How to achieve more objective with the same 24 hour? 
+When we need more hands and brain power, AI Agent is the answer… 
+
+Big thanks to João (Joe) Moura (CrewAI)
+Great AI Agent walkthrough from Brandon Hancock
+
+Case:
+Suppose we'd like to compare multiple city for our holiday and compare accommodation, place of interest, transport and culture 
+
+Solutions:
+Utilize CrewAI to create AI Agent to generate recommendation and calculate budget vs cost according to our interest. 
+
+Is it worth to do it? 
+if this is a repeated case like we're going to holiday 2x year and spent days or weeks researching ... it is a Yes 
+if this is a on off activities to find favorite cheese cake then googling or instagraming is more fun
+
+My Trip Planner:
+https://lnkd.in/gbj2Ngp5
+
+Detail Guide:
+https://lnkd.in/gfviChJB
+
 ## agents.py
 This file contains the definition of custom agents.
 To create a Agent, you need to define the following:
