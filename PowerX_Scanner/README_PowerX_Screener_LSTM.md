@@ -53,9 +53,16 @@ Install with pip:
 pip install pandas numpy matplotlib ta tensorflow scikit-learn yfinance seaborn requests
 ```
 
+## Input: PowerX_Ticker_Only_Input_Template
+List of Daily Stock scanner in Trading View according to Markus Heikoetter
+. Market Cap >= 2 Billions USD
+. Daily Volume > 1 Millions 
+. Daily Price Change > -2%
+. Each Company P/E ratio =< 50
+
 ---
 
-## 📤 Output
+## 📤 Output: PowerX_Daily_Dashboard_Natural_Phrasing_Combined_WithSeparateGraphs
 
 - Filtered list of stocks matching PowerX rules
 - LSTM-based trend predictions
