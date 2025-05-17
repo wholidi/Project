@@ -34,16 +34,22 @@ Install dependencies with:
 ```bash
 pip install pandas numpy matplotlib yfinance ta seaborn
 ```
+## Input: US_MK_Scanner
+- Inspired by Stock Screener according to https://markusheitkoetter.com/ in TradingView
 
-## 📤 Output
+## 📤 Output: AI_Trading_Result
 
-- A filtered list of MVP stocks
+- A filtered list of Minervini selected stocks
 - Line or candlestick charts for final report visualization
+- Predicted up or down stock trend 
 
 ## 🧬 Strategy Inspiration
 
 > "You want to buy when a stock is under accumulation, forming a base, and about to break out. Not after it's already run up."  
 — **Mark Minervini**
+
+> “SMART is an acronym which stands for: Specific Measurable Attractive Realistic Timeframe”
+― **Markus Heitkoetter, THE COMPLETE GUIDE TO DAY TRADING**
 
 This screener automates the MVP-style filtering logic based on historical data.
 
