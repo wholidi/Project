@@ -1,5 +1,5 @@
 
-# 📈 Stock Chart MVP15 Screener (Minervini-Inspired)
+# 📈 US Markus Heitkoetter and Minervini Inspired Screener 
 
 This Jupyter notebook implements a stock screening strategy based on principles from **Mark Minervini**, as discussed in [Secrets of a Stock Market Wizard](https://www.stockopedia.com/academy/articles/secrets-stock-market-wizard-minervini/).
 
