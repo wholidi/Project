@@ -1,12 +1,13 @@
 # 🧠 Auto-GPT Deployment on AWS EC2 (v0.5.0)
 
 This repository documents the successful deployment and testing of **Auto-GPT** (v0.5.0) on an **Ubuntu EC2 instance**, configured for research-based agentic tasks such as AI governance tool comparisons.
+https://github.com/Significant-Gravitas/AutoGPT
 
 ---
 
 ## ✅ Project Summary
 
-We deployed Auto-GPT in a virtual environment on an EC2 instance and executed a use-case focused on **AI governance tool comparison** involving:
+Auto-GPT in a virtual environment on an EC2 instance and executed a use-case focused on **AI governance tool comparison** involving:
 
 - **AI Verify**
 - **Credo AI**
