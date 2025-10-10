@@ -1,6 +1,0 @@
-edge-tts==6.1.12
-PyPDF2==3.0.1
-mutagen==1.47.0
-# Offline fallback (Windows SAPI)
-pyttsx3==2.90
-pywin32==306
