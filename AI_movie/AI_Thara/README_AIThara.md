@@ -24,10 +24,12 @@ It features:
   Societal & Environmental Well-Being, and Continuous Oversight.
 
 ---
+## 🎥 The Shield of AI-Thara — Teaser
 
-## Teaser Video
-
-[▶ Watch "The Shield of AI-Thara"](https://raw.githubusercontent.com/wholidi/Project/main/AI_movie/AI_Thara/The%20Shield%20of%20AI-Thara.mp4)
+<video controls width="800">
+  <source src="https://github.com/wholidi/Project/raw/main/AI_movie/AI_Thara/The_Shield_of_AIthara.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
