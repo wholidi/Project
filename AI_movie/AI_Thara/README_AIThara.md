@@ -2,7 +2,7 @@
 layout: page
 title: "AI-Thara: The Shield of AI Governance"
 permalink: /ai-thara/
-description: "A cinematic narrative inspired by AI Verify, EU AI Act, and trustworthy AI principles."
+description: "A cinematic narrative inspired by AI Verify trustworthy principles."
 ---
 
 # 🎬 AI-Thara — AegisForge.ai Studios
@@ -28,7 +28,7 @@ It features:
 ## Teaser Video
 
 <video controls width="800">
-  <source src="/assets/video/AI-Thara-Teaser-v1.mp4" type="video/mp4">
+  <source src="AI_movie/AI_Thara/The Shield of AI-Thara.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
