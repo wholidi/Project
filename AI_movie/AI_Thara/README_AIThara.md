@@ -24,12 +24,20 @@ It features:
   Societal & Environmental Well-Being, and Continuous Oversight.
 
 ---
-## 🎥 The Shield of AI-Thara — Teaser
 
-<video controls width="800">
-  <source src="https://github.com/wholidi/Project/raw/main/AI_movie/AI_Thara/The_Shield_of_AIthara.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎥 The Shield of AI-Thara — 
+
+<p align="center">
+  <video controls width="800" poster="https://wholidi.github.io/assets/images/AIthara_poster.jpg">
+    <source src="https://github.com/wholidi/Project/raw/refs/heads/main/AI_movie/AI_Thara/The_Shield_of_AIthara.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+🛡️ <b>Captain Auditor</b> and <b>Queen Lyrenna</b> traverse the Eleven Realms of AI Harmony —  
+from Transparency and Explainability to Inclusiveness and Societal Well-Being.  
+</p>
 
 ---
 
