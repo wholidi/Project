@@ -27,10 +27,7 @@ It features:
 
 ## Teaser Video
 
-<video controls width="800">
-  <source src="https://raw.githubusercontent.com/wholidi/Project/main/AI_movie/AI_Thara/The%20Shield%20of%20AI-Thara.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[▶ Watch "The Shield of AI-Thara"](https://raw.githubusercontent.com/wholidi/Project/main/AI_movie/AI_Thara/The%20Shield%20of%20AI-Thara.mp4)
 
 ---
 
