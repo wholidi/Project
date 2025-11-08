@@ -25,18 +25,22 @@ It features:
 
 ---
 
-## 🎥 The Shield of AI-Thara — 
+## 🎥 The Shield of AI-Thara
 
-<p align="center">
-  <video controls width="800" poster="https://wholidi.github.io/assets/images/AIthara_poster.jpg">
+---
+
+<h2 align="center">🎥 The Shield of AI-Thara — Cinematic Teaser</h2>
+
+<div style="text-align:center; margin-top:20px; margin-bottom:20px;">
+  <video controls width="80%" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);" poster="https://wholidi.github.io/assets/images/AIthara_poster.jpg">
     <source src="https://github.com/wholidi/Project/raw/refs/heads/main/AI_movie/AI_Thara/The_Shield_of_AIthara.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</p>
+</div>
 
 <p align="center">
 🛡️ <b>Captain Auditor</b> and <b>Queen Lyrenna</b> traverse the Eleven Realms of AI Harmony —  
-from Transparency and Explainability to Inclusiveness and Societal Well-Being.  
+from Transparency and Explainability to Inclusiveness and Societal Well-Being.
 </p>
 
 ---
