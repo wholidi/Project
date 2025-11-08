@@ -27,10 +27,6 @@ It features:
 
 ## 🎥 The Shield of AI-Thara
 
----
-
-<h2 align="center">🎥 The Shield of AI-Thara — Cinematic Teaser</h2>
-
 <div style="text-align:center; margin-top:20px; margin-bottom:20px;">
   <video controls width="80%" style="border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.4);" poster="https://wholidi.github.io/assets/images/AIthara_poster.jpg">
     <source src="https://github.com/wholidi/Project/raw/refs/heads/main/AI_movie/AI_Thara/The_Shield_of_AIthara.mp4" type="video/mp4">
